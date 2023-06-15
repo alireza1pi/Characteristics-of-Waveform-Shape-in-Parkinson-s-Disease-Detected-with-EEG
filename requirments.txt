@@ -1,0 +1,23 @@
+python version:
+
+	python 3.5
+
+
+
+
+python modules:
+	
+	numpy==1.11.0
+	scipy==1.1.0
+	pandas==0.20.3
+	seaborn==0.9.0
+	matplotlib==1.5.1
+
+	
+
+
+matlab
+
+
+
+eeglab.m(matlab func)
